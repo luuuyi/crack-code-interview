@@ -9,3 +9,4 @@
 - stack&queue   -> *栈和队列练习*
 - tree          -> *树的练习*
 - bits_operator -> *位运算的练习*
+- math          -> *基础数学练习*
