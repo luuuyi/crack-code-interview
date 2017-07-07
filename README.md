@@ -10,4 +10,4 @@
 - tree          -> *树的练习*
 - bits_operator -> *位运算的练习*
 - math          -> *基础数学练习*
-- recursive     -> *递归习题练习*
+- middle        -> *递归和动态规划习题练习*
