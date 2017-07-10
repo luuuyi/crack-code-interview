@@ -6,6 +6,9 @@
         "list": "cpp",
         "vector": "cpp",
         "xstring": "cpp",
-        "utility": "cpp"
+        "utility": "cpp",
+        "exception": "cpp",
+        "tuple": "cpp",
+        "initializer_list": "cpp"
     }
 }
