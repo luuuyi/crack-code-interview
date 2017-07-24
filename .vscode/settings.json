@@ -1,0 +1,15 @@
+{
+    "files.associations": {
+        "type_traits": "cpp",
+        "xhash": "cpp",
+        "xutility": "cpp",
+        "list": "cpp",
+        "vector": "cpp",
+        "xstring": "cpp",
+        "utility": "cpp",
+        "exception": "cpp",
+        "tuple": "cpp",
+        "initializer_list": "cpp",
+        "limits": "cpp"
+    }
+}
